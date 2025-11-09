@@ -52,12 +52,16 @@
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dineshndr02)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dincz)
 
-## 🌟 Featured Projects
-- Coming Soon! Working on exciting projects to showcase here.
+## 🌱 Current Focus
+
+- 🧩 Data Structures & Algorithms — improving problem-solving and optimization skills  
+- 🤝 Open Source Contributions — collaborating and learning from the community  
+- ☁️ Cloud Architecture — building scalable and secure systems  
+- ⚙️ Automation Workflows — streamlining development and deployment processes  
+
 
 ## 📈 Activity Graph
 ![Dincz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dincz&theme=tokyo-night&hide_border=true)
 
 ---
 ⭐️ From [Dincz](https://github.com/Dincz)  
-Last Updated: 2025-11-09 15:15:28 UTC
