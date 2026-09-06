@@ -4,7 +4,7 @@
 
 Backend-leaning TypeScript/Node engineer. I build SaaS products, headless e-commerce, and the automation that removes the manual work around them — then make sure it survives production.
 
-- 🏗️ Shipped 6+ production projects end-to-end: task-management SaaS with realtime + RBAC, Next.js SSR e-commerce with payments, corporate portals
+- 🏗️ Shipped 12+ production projects end-to-end: task-management SaaS with realtime + RBAC, Next.js SSR e-commerce with payments, corporate portals
 - 🤖 Built 4–5 production AI & automation agents — n8n, WhatsApp Business API, LLM tool-calling, Microsoft Graph
 - ⚙️ Production engineering habits: structured logging, health/readiness checks, CI/CD, containers, queues, caching, rate limiting
 - 🎓 B.Sc Information Technology
@@ -66,13 +66,6 @@ Backend-leaning TypeScript/Node engineer. I build SaaS products, headless e-comm
 - 🤖 **AI-native backends** — LLM tool-calling, structured outputs, small RAG pipelines wired into real services
 - ☁️ **Infrastructure as code** — Terraform, containers, CI/CD
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dincz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dincz&layout=compact&theme=tokyonight&hide_border=true)
-
-![Dincz's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dincz&theme=tokyo-night&hide_border=true)
-
 ## 🏆 LeetCode
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Dincz/)
@@ -81,6 +74,7 @@ Backend-leaning TypeScript/Node engineer. I build SaaS products, headless e-comm
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadar-dinesh/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dineshndr02)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dincz)
 
 ---
 ⭐️ From [Dincz](https://github.com/Dincz)
