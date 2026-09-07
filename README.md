@@ -1,10 +1,10 @@
 # Hi, I'm Dinesh Nadar 👋
 
-**Full-Stack Software Engineer · Mumbai · 3 years shipping production software**
+**Full-Stack Developer · Mumbai · 3 years shipping production software**
 
-Backend-leaning TypeScript/Node engineer. I build SaaS products, headless e-commerce, and the automation that removes the manual work around them — then make sure it survives production.
+Backend-leaning TypeScript/Node developer. I build SaaS products, headless e-commerce, and the automation that removes the manual work around them — then make sure it survives production.
 
-- 🏗️ Shipped 12+ production projects end-to-end: task-management SaaS with realtime + RBAC, Next.js SSR e-commerce with payments, corporate portals
+- 🏗️ Shipped 15+ production projects end-to-end: task-management SaaS with realtime + RBAC, Next.js SSR e-commerce with payments, corporate portals
 - 🤖 Built 4–5 production AI & automation agents — n8n, WhatsApp Business API, LLM tool-calling, Microsoft Graph
 - ⚙️ Production engineering habits: structured logging, health/readiness checks, CI/CD, containers, queues, caching, rate limiting
 - 🎓 B.Sc Information Technology
@@ -22,6 +22,7 @@ Backend-leaning TypeScript/Node engineer. I build SaaS products, headless e-comm
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
@@ -43,7 +44,7 @@ Backend-leaning TypeScript/Node engineer. I build SaaS products, headless e-comm
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -74,7 +75,6 @@ Backend-leaning TypeScript/Node engineer. I build SaaS products, headless e-comm
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadar-dinesh/)
 [![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dineshndr02)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dincz)
 
 ---
 ⭐️ From [Dincz](https://github.com/Dincz)
